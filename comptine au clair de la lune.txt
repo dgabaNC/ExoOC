@@ -1,5 +1,5 @@
-Au clair de la lune
-Mon ami Pierrot
+Au clair de la brune
+Mon ami 
 Prête moi ta plume
 Pour écrire un mot
 Ma chandelle est morte
@@ -7,7 +7,7 @@ Je n'ai plus de feu
 Ouvre-moi ta porte
 Pour l'amour de Dieu
 Au clair de la lune
-Pierrot répondit
+ répondit
 Je n'ai pas de plume
 Je suis dans mon lit
 Va chez la voisine
@@ -15,7 +15,7 @@ Je crois qu'elle y est
 Car dans la cuisine
 On bat le briquet
 
-Au clair de la lune
+Au clair de la brune
 Trois petits lapins 
 Qui mangeaient des prunes
 Comme des petits coquins 
